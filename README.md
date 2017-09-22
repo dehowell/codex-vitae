@@ -11,6 +11,7 @@ Consciousness is immanent in the mind and body. There is no separate "soul-stuff
 A human life has no cosmic, unambiguous purpose: we have the opportunity and responsibility to find and make that choice on our own, between ourselves. But meaning and choice are constrained by our physical and social environment: the skills we learn and the communities of practice we inhabit shape the possible sources of meaning available to us.
 
 > I think "do what you love" is useless advice when it comes to making a living. I'd recommend looking at what the world needs, thinking about what you have to offer, and working hard to build a skillset so that you can fill that void.
+>
 > -- Austin Kleon
 
 Humans are the products of evolution, inhabiting an environment that is far from any kind of equilibrium. Your instincts are optimized for propagation of genes and no more: for sustainable happiness in life, do not take your impulses as truth. Instead, be mindful of how small choices accumulate over the long term.
