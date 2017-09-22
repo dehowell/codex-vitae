@@ -108,7 +108,7 @@ This is a collection of articles, books, and otherwise that have influenced me, 
 Intended to help me develop clarity of purpose in the midst of an overwhelming volume of interests.
 
 - **Peter Adeney**. ["The Practical Benefits of Outrageous Optimism"](http://www.mrmoneymustache.com/2012/10/03/the-practical-benefits-of-outrageous-optimism/).  
-  Although I read Martin Seligman's _Learned Optimism_ first, the Mr. Money Mustache treatment of the subject (and his writing in general) has done far more to help me get my attention directed towards the things that I can change in my life - and also helped me understand that I can embrace my own skills and success without giving up on my moral beliefs and desire to see a more just world.
+  Although I read Martin Seligman's _Learned Optimism_ first, the Mr. Money Mustache treatment of the subject (and his writing in general) has done far more to help me get my attention directed towards the things that I can change in my life -- and also helped me understand that I can embrace my own skills and success without giving up on my moral beliefs and desire to see a more just world.
 - **Seneca**. [_Letters from a Stoic_](http://www.penguin.com/book/letters-from-a-stoic-by-seneca/9780140442106)
 - **Francis Edward Su**. ["The Lessons of Grace in Teaching"](http://mathyawp.blogspot.com/2013/01/the-lesson-of-grace-in-teaching.html)
 - **Venkatesh Rao**. ["A Calculus of Grit"](http://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/)
