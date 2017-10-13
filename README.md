@@ -31,6 +31,10 @@ We must often gain  _experiential knowledge_ of a theoretical system's virtues b
 
 The self is not sharply bounded by the skin: mind is embodied in its environment (See Andy Clark's _Supersizing the Mind_). When I speak to another human, we become a distributed cognitive network through the sensory connections (sight, sound, smell) between our nervous systems.
 
+In _I Am A Strange Loop_, Douglas Hofstadter propoposes that consciousness is our "simulation of self". When I interact with other people, I am training their own simulations of me. When we interact, they react in response to both what I do and their own expectations of what I would do. We are co-created in the feedback loops of these interactions. With that in mind, what version of my consciousness do I want to distribute throughout the world: the angry moments, the unkind moments? Or the patient momements, the moments of grace?
+
+Our actions and the way we speak bequeaths a way of seeing unto our children.
+
 Long-term satisfaction in life depends at least partly on **discovering what your values are** and trying to **live in conformity with those values**. But remember that there is no true, eternal, stable self. You and your values are path-dependent and dynamic -- so choose your paths well.
 
 ## Activities & Their Ends
@@ -103,7 +107,7 @@ These are pitfalls and experiential truths that are easy to lose sight of withou
 
 ## Core Curriculum
 
-This is a collection of articles, books, and otherwise that have influenced me, in ways conscious our otherwise.
+This is a collection of articles, books, and otherwise that have influenced me, in ways conscious or otherwise.
 
 Intended to help me develop clarity of purpose in the midst of an overwhelming volume of interests.
 
@@ -130,8 +134,9 @@ Intended to help me develop clarity of purpose in the midst of an overwhelming v
 - **Cal Newport**. ["Do Goals Prevent Success?"](http://calnewport.com/blog/2014/07/31/do-goals-prevent-success/)  
   Cal Newport introduces the idea of _effectuation_ (coined by Saras Sarasvathy) as a candidate explanation for the disproportionate impact some people have in their fields. Effectuative thinking is a planning mode that focuses on (a) navigating from strengths and (b) avoiding risks with unbounded or large downsides (smells like optionality / anti-fragility) in order to allow goals to develop emergently - as opposed to top-down goal-first planning.
 - **Charles Mann**. ["How to Talk About Climate Change so People Will Listen"](http://www.theatlantic.com/magazine/archive/2014/09/how-to-talk-about-climate-change-so-people-will-listen/375067/)
-- **Robert Pirsig**. _Zen and the Art of Motorcycle Maintenance_
+- **Robert Pirsig**. _Zen and the Art of Motorcycle Maintenance_.
 - **Nate Soares**. [Replacing Guilt](http://mindingourway.com/guilt/). A series of blog posts on how guilt and shame are toxic motivational forces, plus strategies for replacing them with more effective, intrinsic motivation.
+- **Douglas Hofstadter**. _I Am A Strange Loop_
 
 [1]:	http://gettingthingsdone.com "Getting Things Done"
 [2]:	http://wayoftheduck.com/codex-vitae "Codex Vitae"
