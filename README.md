@@ -6,15 +6,15 @@ This is a place for me to store statements of my long-term goals, [GTD][1] horiz
 
 I want to solve more problems than I create, clean up more messes than I make.
 
-Consciousness is immanent in the mind and body. There is no separate "soul-stuff" transcendent from the material universe. Sense of self is a process enacted continuously.
+Consciousness is immanent in the mind and body. There is no separate "soul-stuff" transcendent from the material universe. Our ongoing sense of personal identity is a continually-enacted process, arising from continuity of memory, intentions, and the simulation of a self-model.
 
-A human life has no cosmic, unambiguous purpose: we have the opportunity and responsibility to find and make that choice on our own, between ourselves. But meaning and choice are constrained by our physical and social environment: the skills we learn and the communities of practice we inhabit shape the possible sources of meaning available to us.
+Human life has no cosmic, unambiguous purpose: we have the opportunity and responsibility to find and make that choice on our own, between ourselves. However, meaning and choice are constrained by our physical and social environment. The skills we learn and the communities of practice we inhabit shape the possible sources of meaning available to us.
 
 > I think "do what you love" is useless advice when it comes to making a living. I'd recommend looking at what the world needs, thinking about what you have to offer, and working hard to build a skillset so that you can fill that void.
 >
 > -- Austin Kleon
 
-Humans are the products of evolution, inhabiting an environment that is far from any kind of equilibrium. Your instincts are optimized for propagation of genes and no more: for sustainable happiness in life, do not take your impulses as truth. Instead, be mindful of how small choices accumulate over the long term.
+Humans are the products of evolution, inhabiting an environment that is far from any kind of equilibrium. Our instincts are optimized for propagation of genes and no more: for sustainable happiness in life, do not take your impulses as truth. Instead, be mindful of how small choices accumulate over the long term.
 
 	1.01^365 = 37.8
 	0.99^365 = 0.03
@@ -23,7 +23,7 @@ Satisfaction comes from fulfilling our responsibility to others, from learning n
 
 The arrow of time is real. Although microscopic dynamics are time-reversible, the universe is a system at the thermodynamic limit and the second law of thermodynamics gives time a directionality. **The laws of physics may be deterministic, but the future is not determined** (See Ilya Prigogine's _The End of Certainty_ for a detailed argument).
 
-In general, question conclusions derived from extrapolating clean-room, microscopic, spherical-cow thought experiments to macroscopic situations. _Everything_ is situated in contexts that violate the assumptions of the thought experiment.
+Question any conclusion derived from extrapolating a clean-room, microscopic, spherical-cow thought experiment to macroscopic situations. _Everything_ in the real world is situated in a context that likely violates the assumptions of simple models.
 
 We must often gain  _experiential knowledge_ of a theoretical system's virtues before we can develop our full understanding. We find and embrace strategies that help us achieve equanimity and construct the discourse to explain those strategies. Even a fully developed philosophical/spiritual theory has to be taught and learned via _spiritual exercises_ (See Pierre Hadot's _Philosophy as a Way of Life_ for an extended version of this argument, relating to Platonic Christian theology and the Stoics). **Before we can believe, we must act.** The experiential knowledge that produces motivation often fades within days, unless reinforced by ritual and practice.
 
@@ -31,11 +31,11 @@ We must often gain  _experiential knowledge_ of a theoretical system's virtues b
 
 The self is not sharply bounded by the skin: mind is embodied in its environment (See Andy Clark's _Supersizing the Mind_). When I speak to another human, we become a distributed cognitive network through the sensory connections (sight, sound, smell) between our nervous systems.
 
-In _I Am A Strange Loop_, Douglas Hofstadter propoposes that consciousness is our "simulation of self". When I interact with other people, I am training their own simulations of me. When we interact, they react in response to both what I do and their own expectations of what I would do. We are co-created in the feedback loops of these interactions. With that in mind, what version of my consciousness do I want to distribute throughout the world: the angry moments, the unkind moments? Or the patient momements, the moments of grace?
+In _I Am A Strange Loop_, Douglas Hofstadter proposes that consciousness is our "simulation of self". When I interact with other people, I am training their own simulations of me. When we interact, they react in response to both what I do and their own expectations of what I would do. We are co-created in the feedback loops of these interactions. With that in mind, what version of my consciousness do I want to distribute throughout the world: the angry moments, the unkind moments? Or patience, playfulness, the extension of grace?
 
 Our actions and the way we speak bequeaths a way of seeing unto our children.
 
-Long-term satisfaction in life depends at least partly on **discovering what your values are** and trying to **live in conformity with those values**. But remember that there is no true, eternal, stable self. You and your values are path-dependent and dynamic -- so choose your paths well.
+Long-term satisfaction in life depends at least partly on **discovering what your values are** and trying to **live in conformity with those values**. But remember that there is no true, eternal, stable self. You and your values are path-dependent and dynamic. Choose your path well.
 
 ## Activities & Their Ends
 
@@ -99,7 +99,7 @@ Internalizing successes and progress can be difficult. Continue to challenge you
 
 These are pitfalls and experiential truths that are easy to lose sight of without regular consideration.
 
-1. Alcohol - fancy cocktails and craft beer - is not a prerequisite to the good life, despite prevailing attitudes in Vermont. It can be enjoyed occasionally, but at best will be a fleeting pleasure. At worst, alcohol makes concentration and good judgement difficult and will tend to undermine progress towards a deeper life.
+1. Alcohol - fancy cocktails and craft beer - is not a prerequisite to the good life. It can be enjoyed occasionally, but at best will be a fleeting pleasure. At worst, alcohol makes concentration and good judgement difficult and will tend to undermine progress towards a deeper life.
 	![](images/quality_curve.jpg)
 2. Attachment to your house is proportional to energy invested into it. If the house is treated as an abstract shell, it will be an encumbrance. If tended and considered, it will be a joy and pleasure for your family.
 3. Frugality is a virtue, but it is not a virtue to be stingy when spending money can help you live truer to your values.
