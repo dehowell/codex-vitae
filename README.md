@@ -8,7 +8,7 @@ Treat all people as works in progress. Respect their capacity for growth and aid
 
 Recognize that there are many frameworks for understanding the world. Remember the strong possibility that you are wrong and be pluralistic with respect to philosophical lenses.
 
-Balance my ideals and aspirations for what could be against work appropriately within the bounds of what is.
+Balance my ideals and aspirations for what could be against working appropriately within the bounds of what is.
 
 Work with the grain of people and the world to build a better future.
 
