@@ -2,9 +2,23 @@
 
 This is a place for me to store statements of my long-term goals, [GTD][1] horizons, and affirmations of my beliefs and values. Inspired by Buster Benson and his [Codex Vitae][2].
 
-## Beliefs
+## Values
 
-I want to solve more problems than I create, clean up more messes than I make.
+Treat all people as works in progress. Respect their capacity for growth and aid their pursuit of excellence however I may.
+
+Recognize that there are many frameworks for understanding the world. Remember the strong possibility that you are wrong and be pluralistic with respect to philosophical lenses.
+
+Balance my ideals and aspirations for what could be against work appropriately within the bounds of what is.
+
+Work with the grain of people and the world to build a better future.
+
+Choose the longer-term and build structures to make the right choice easy and obvious.
+
+Solve more problems than I create. Clean up more messes than I make. What I do now creates the initial conditions those who follow. Act so as to preserve their options.
+
+Reflect regularly on these values to reinforce them as a lived practice.
+
+## Beliefs
 
 Consciousness is immanent in the mind and body. There is no separate "soul-stuff" transcendent from the material universe. Our ongoing sense of personal identity is a continually-enacted process, arising from continuity of memory, intentions, and the simulation of a self-model.
 
@@ -21,11 +35,11 @@ Humans are the products of evolution, inhabiting an environment that is far from
 
 Satisfaction comes from fulfilling our responsibility to others, from learning new things, from challenging ourselves, and only marginally from experiencing pleasure.
 
-The arrow of time is real. Although microscopic dynamics are time-reversible, the universe is a system at the thermodynamic limit and the second law of thermodynamics gives time a directionality. **The laws of physics may be deterministic, but the future is not determined** (See Ilya Prigogine's _The End of Certainty_ for a detailed argument).
+The arrow of time is real. Although microscopic dynamics are time-reversible, all observable systems (and certainly the universe as a whole) are at the thermodynamic limit, where the second law of thermodynamics applies. **The laws of physics may be deterministic, but the future is not determined.** See César Hidalgo's _Why Information Grows_ for a clear summary of the relevant physics and Ilya Prigogine's _The End of Certainty_ for a more detailed argument.
 
-Question any conclusion derived from extrapolating a clean-room, microscopic, spherical-cow thought experiment to macroscopic situations. _Everything_ in the real world is situated in a context that likely violates the assumptions of simple models.
+In general, any conclusion derived by extrapolating microscopic dynamics to macroscopic situation should be questioned. _Everything_ in the real world is situated in some context that likely violates the assumptions of simple models.
 
-We must often gain  _experiential knowledge_ of a theoretical system's virtues before we can develop our full understanding. We find and embrace strategies that help us achieve equanimity and construct the discourse to explain those strategies. Even a fully developed philosophical/spiritual theory has to be taught and learned via _spiritual exercises_ (See Pierre Hadot's _Philosophy as a Way of Life_ for an extended version of this argument, relating to Platonic Christian theology and the Stoics). **Before we can believe, we must act.** The experiential knowledge that produces motivation often fades within days, unless reinforced by ritual and practice.
+We must often gain  _experiential knowledge_ of a theoretical system's virtues before we can develop our full understanding. We find and embrace strategies that help us achieve equanimity and construct the discourse to explain those strategies after the fact. Even a fully developed philosophical/spiritual theory has to be taught and learned via _spiritual exercises_ (See Pierre Hadot's _Philosophy as a Way of Life_ for an extended version of this argument, relating to Platonic Christian theology and the Stoics). **Before we can believe, we must act.** The experiential knowledge that produces motivation often fades within days, unless reinforced by ritual and practice.
 
 **Action precedes motivation**.
 
@@ -137,6 +151,7 @@ Intended to help me develop clarity of purpose in the midst of an overwhelming v
 - **Robert Pirsig**. _Zen and the Art of Motorcycle Maintenance_.
 - **Nate Soares**. [Replacing Guilt](http://mindingourway.com/guilt/). A series of blog posts on how guilt and shame are toxic motivational forces, plus strategies for replacing them with more effective, intrinsic motivation.
 - **Douglas Hofstadter**. _I Am A Strange Loop_
+- **Samuel R. Delaney**. _Empire Star_
 
 [1]:	http://gettingthingsdone.com "Getting Things Done"
 [2]:	http://wayoftheduck.com/codex-vitae "Codex Vitae"
