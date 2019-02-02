@@ -14,7 +14,7 @@ Work with the grain of people and the world to build a better future.
 
 Choose the longer-term and build structures to make the right choice easy and obvious.
 
-Solve more problems than I create. Clean up more messes than I make. What I do now creates the initial conditions those who follow. Act so as to preserve their options.
+Solve more problems than I create and clean up more messes than I make. What I do now creates the initial conditions for those who follow. Act so as to preserve their options.
 
 Reflect regularly on these values to reinforce them as a lived practice.
 
