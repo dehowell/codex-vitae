@@ -41,6 +41,8 @@ In general, any conclusion derived by extrapolating microscopic dynamics to macr
 
 We must often gain  _experiential knowledge_ of a theoretical system's virtues before we can develop our full understanding. We find and embrace strategies that help us achieve equanimity and construct the discourse to explain those strategies after the fact. Even a fully developed philosophical/spiritual theory has to be taught and learned via _spiritual exercises_ (See Pierre Hadot's _Philosophy as a Way of Life_ for an extended version of this argument, relating to Platonic Christian theology and the Stoics). **Before we can believe, we must act.** The experiential knowledge that produces motivation often fades within days, unless reinforced by ritual and practice.
 
+There is no _one true_ scientific method or other perfectly reliable, reusable path to determining what is true. All epistemic disciplines are domain-specific cultural artifacts whose effectiveness has to be demonstrated in practice and subject to revision. Still, some epistemic disciplines work better than others and there is value in comparing notes across domains.
+
 **Action precedes motivation**.
 
 The self is not sharply bounded by the skin: mind is embodied in its environment (See Andy Clark's _Supersizing the Mind_). When I speak to another human, we become a distributed cognitive network through the sensory connections (sight, sound, smell) between our nervous systems.
@@ -118,6 +120,13 @@ These are pitfalls and experiential truths that are easy to lose sight of withou
 2. Attachment to your house is proportional to energy invested into it. If the house is treated as an abstract shell, it will be an encumbrance. If tended and considered, it will be a joy and pleasure for your family.
 3. Frugality is a virtue, but it is not a virtue to be stingy when spending money can help you live truer to your values.
 4. It can be powerful to have _high expectations_ for myself, but I must be careful to not apply those same expectations to other people. With others, strive to accept their limitations and interests.
+
+## Appreciations
+
+Admirable tendencies I see in my friends & family, from which I would love to learn.
+
+* **Andy:** An insistence on finding what is adequate in a category and refusing to explore further. Consider his resistance to the hedonic treadmill with respect to coffee. This is satisficing as a mode of resistance to consumerist culture.
+
 
 ## Core Curriculum
 
