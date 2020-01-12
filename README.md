@@ -1,5 +1,7 @@
 # The Codex Vitae of David Howell
 
+[The current iteration of this is in Roam.](https://roamresearch.com/#/app/dehowell-exocortex/page/CCOxCQe96)
+
 This is a place for me to store statements of my long-term goals, [GTD][1] horizons, and affirmations of my beliefs and values. Inspired by Buster Benson and his [Codex Vitae][2].
 
 ## Values
